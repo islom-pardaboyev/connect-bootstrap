@@ -1,0 +1,80 @@
+@media(min-width: 1400px) {
+    .container{
+        max-width: 1140px;
+    }
+}
+
+/* navigation style */
+::selection{
+    background: rgb(0, 238, 255);
+    color: #fff;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: 500;
+}
+
+.nav-item{
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* home */
+.home{
+    background-color: #f0f5f9;
+    padding: 150px 0 100px 0;
+}
+
+.about__card-1{
+    background-color: #fff2e5;
+}
+
+.about__card-2{
+    background-color: #f8f9fa;
+}
+
+.about__card-3{
+    background-color: #f0f5f9;
+}
+
+.card img{
+    width: 80px;
+}
+
+.about-title{
+    color: #20BF73;
+}
+
+/* features */
+.features__container{
+    background-color: #f0f5f9;
+}
+
+/* result */
+.result h1{
+    color: #383B60;
+}
+
+.result h5{
+    font-size: 14px;
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* reviews */
+.reviews__container{
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+/* faq */
+.faq__container{
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}   
